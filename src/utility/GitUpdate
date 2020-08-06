@@ -1,4 +1,4 @@
-Package utility;
+package utility;
 
 public class GitUpdate{
   public static void main(String[] args){
